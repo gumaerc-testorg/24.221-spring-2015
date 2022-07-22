@@ -5,6 +5,7 @@ file: /courses/24-221-metaphysics-spring-2015/6c51095831a7dcba5b678059e4fe6cb5_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem set #1'
 uid: 6c510958-31a7-dcba-5b67-8059e4fe6cb5
 ---
 Problem set on metaphysics.
-

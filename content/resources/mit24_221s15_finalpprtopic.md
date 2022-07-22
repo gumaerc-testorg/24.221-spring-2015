@@ -5,6 +5,7 @@ file: /courses/24-221-metaphysics-spring-2015/2a5a82f11375d6ddd6bdd4d71c91f5c5_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final paper topics
 uid: 2a5a82f1-1375-d6dd-d6bd-d4d71c91f5c5
 ---
 Three different prompts for a final paper on metaphysics.
-
