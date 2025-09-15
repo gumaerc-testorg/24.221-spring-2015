@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Tips on writing philosophy essays.
-file: /courses/24-221-metaphysics-spring-2015/e475e220e4d00389a806136575e8bbbe_MIT24_221S15_Philosophy.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-spring-2015/e475e220e4d00389a806136575e8bbbe_MIT24_221S15_Philosophy.pdf
+file_size: 174500
 file_type: application/pdf
 learning_resource_types:
 - Assignments

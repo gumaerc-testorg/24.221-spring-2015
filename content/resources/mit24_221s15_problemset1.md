@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem set on metaphysics.
-file: /courses/24-221-metaphysics-spring-2015/6c51095831a7dcba5b678059e4fe6cb5_MIT24_221S15_ProblemSet1.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-spring-2015/6c51095831a7dcba5b678059e4fe6cb5_MIT24_221S15_ProblemSet1.pdf
+file_size: 141124
 file_type: application/pdf
 learning_resource_types:
 - Assignments

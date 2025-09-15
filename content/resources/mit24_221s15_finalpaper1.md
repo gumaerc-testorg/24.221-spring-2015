@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example of student work for a final paper on metaphysics.
-file: /courses/24-221-metaphysics-spring-2015/46e13c78705c5eeeac840e42dbfef6a3_MIT24_221S15_FinalPaper1.pdf
+file: /ol-ocw-studio-app/courses/24-221-metaphysics-spring-2015/46e13c78705c5eeeac840e42dbfef6a3_MIT24_221S15_FinalPaper1.pdf
+file_size: 247174
 file_type: application/pdf
 learning_resource_types:
 - Assignments
