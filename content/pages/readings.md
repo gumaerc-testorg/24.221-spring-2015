@@ -42,7 +42,7 @@ No readings assigned.
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Quine, Willard V. "[On What There Is](http://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=revmetaph&id=revmetaph_1948_0002_0001_0021_0038)." _The Review of Metaphysics_ 2, no. 1 (1948): 21–38.
+Quine, Willard V. "{{% resource_link "85f2f32c-34f5-4d6c-b5fb-e0e9ed3a74e0" "On What There Is" %}}." _The Review of Metaphysics_ 2, no. 1 (1948): 21–38.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Quine, Willard V. "[On What There Is](http://www.pdcnet.org/pdc/bvdb.nsf/purchas
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Carnap, Rudolf. "[Empiricism, Semantics, and Ontology](http://www.ditext.com/carnap/carnap.html)." _Revue Internationale de Philosophie_ 4 (1950): 20–40.
+Carnap, Rudolf. "{{% resource_link "3bd053b3-c5e9-4d33-86df-3a361b1a45ff" "Empiricism, Semantics, and Ontology" %}}." _Revue Internationale de Philosophie_ 4 (1950): 20–40.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Carnap, Rudolf. "[Empiricism, Semantics, and Ontology](http://www.ditext.com/car
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Unger, Peter. "[The Problem of the Many](http://dx.doi.org/10.1111/j.1475-4975.1980.tb00416.x)." _Midwest Studies In Philosophy_ 5, no. 1 (1980): 411–68.
+Unger, Peter. "{{% resource_link "efe89736-37c2-428c-9bf8-2832c6481c88" "The Problem of the Many" %}}." _Midwest Studies In Philosophy_ 5, no. 1 (1980): 411–68.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Unger, Peter. "[The Problem of the Many](http://dx.doi.org/10.1111/j.1475-4975.1
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. "Many, But Almost One." In _Papers in Metaphysics and Epistemology_. Cambridge University Press, 1999. ISBN: 9780521587877. \[Preview with [Google Books](http://books.google.com/books?id=lorRScXDRNgC&pg=PA164#v=onepage)\]
+Lewis, David. "Many, But Almost One." In _Papers in Metaphysics and Epistemology_. Cambridge University Press, 1999. ISBN: 9780521587877. \[Preview with {{% resource_link "571ff722-b055-48aa-ba85-46037771cf63" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ Lewis, David. "Many, But Almost One." In _Papers in Metaphysics and Epistemology
 6
 {{< tdclose >}}
 {{< tdopen >}}
-McTaggart, J. McT. E. Time: An Excerpt from "[The Nature of Existence](http://www.angelfire.com/md2/timewarp/mctaggart.html)."
+McTaggart, J. McT. E. Time: An Excerpt from "{{% resource_link "7c8bd5e9-69f3-48ec-8ac9-d4c612c43822" "The Nature of Existence" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ McTaggart, J. McT. E. Time: An Excerpt from "[The Nature of Existence](http://ww
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Parsons, Josh. "[A–Theory for B–Theorists](http://dx.doi.org/10.1111/1467-9213.00249)." _The Philosophical Quarterly_ 52, no. 206 (2002): 1–20.
+Parsons, Josh. "{{% resource_link "c588b680-d3b5-415a-9a47-05d2b5932976" "A–Theory for B–Theorists" %}}." _The Philosophical Quarterly_ 52, no. 206 (2002): 1–20.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ Parsons, Josh. "[A–Theory for B–Theorists](http://dx.doi.org/10.1111/1467-92
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. ["The Paradoxes of Time Travel." (PDF)](http://www.csus.edu/indiv/m/merlinos/Paradoxes%20of%20Time%20Travel.pdf) _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.
+Lewis, David. {{% resource_link "e38b0333-bd2a-4819-899a-ad930b20dba4" "\"The Paradoxes of Time Travel.\" (PDF)" %}} _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Lewis, David. ["The Paradoxes of Time Travel." (PDF)](http://www.csus.edu/indiv/
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Parfit, Derek. Chapters 10 and 11 in _Reasons and Persons_. Oxford University Press. 1984. ISBN: 9780198246152. \[Preview with [Google books](http://books.google.com/books?id=ulhHdvbDRUkC&pg=PA199#v=onepage)\]
+Parfit, Derek. Chapters 10 and 11 in _Reasons and Persons_. Oxford University Press. 1984. ISBN: 9780198246152. \[Preview with {{% resource_link "6cce5e35-0af4-4ebb-b949-3ebe7c0ce530" "Google books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Parfit, Derek. Chapters 10 and 11 in _Reasons and Persons_. Oxford University Pr
 10
 {{< tdclose >}}
 {{< tdopen >}}
-———. Chapter 12 in _Reasons and Persons_. Oxford University Press. 1984. ISBN: 9780198246152. \[Preview with [Google books](http://books.google.com/books?id=ulhHdvbDRUkC&pg=PA245#v=onepage)\]
+———. Chapter 12 in _Reasons and Persons_. Oxford University Press. 1984. ISBN: 9780198246152. \[Preview with {{% resource_link "2a613f5e-129a-4cd3-acad-ccc5a5e2075c" "Google books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Parfit, Derek. Chapters 10 and 11 in _Reasons and Persons_. Oxford University Pr
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. "[Survival and Identity](http://dx.doi.org/10.1093/0195032047.003.0005)." _Philosophical Papers_, 1983.
+Lewis, David. "{{% resource_link "cc77bad7-7ad7-47ab-a603-cb35356ea7cf" "Survival and Identity" %}}." _Philosophical Papers_, 1983.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Lewis, David. "[Survival and Identity](http://dx.doi.org/10.1093/0195032047.003.
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Gendler, Tamar Szabo. "[Personal Identity and Thought–Experiments](http://dx.doi.org/10.1111/1467-9213.00251)." _The Philosophical Quarterly_ 52, no. 206 (2002): 34–54.
+Gendler, Tamar Szabo. "{{% resource_link "71f07cf6-1075-4680-990d-1c1483ddfb3e" "Personal Identity and Thought–Experiments" %}}." _The Philosophical Quarterly_ 52, no. 206 (2002): 34–54.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +168,7 @@ Plantinga, Alvin. Chapters 1–2 in _The Nature of Necessity_. Clarendon Press, 
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Chisholm, Roderick M. "[Identity through Possible Worlds: Some Questions](http://www.jstor.org/stable/2214708)." _Noûs_ 1, no. 1 (1967): 1–8.
+Chisholm, Roderick M. "{{% resource_link "188e758b-70ef-4956-8847-75a9b64271fe" "Identity through Possible Worlds: Some Questions" %}}." _Noûs_ 1, no. 1 (1967): 1–8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +201,7 @@ Lewis, David. "Counterparts or Double Lives?"
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Van Inwagen, Peter. "[The Incompatibility of Free Will and Determinism](http://dx.doi.org/10.1007/BF01624156)." _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_ 27, no. 3 (1975): 185–99.
+Van Inwagen, Peter. "{{% resource_link "d2779346-e70f-4a5b-b63b-f03503478305" "The Incompatibility of Free Will and Determinism" %}}." _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_ 27, no. 3 (1975): 185–99.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +210,7 @@ Van Inwagen, Peter. "[The Incompatibility of Free Will and Determinism](http://d
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. "[Are We Free to Break the Laws](http://dx.doi.org/10.1111/j.1755-2567.1981.tb00473.x)?" _Theoria_ 47, no. 3 (1981): 113–21.
+Lewis, David. "{{% resource_link "c83548ba-8c49-4e6e-8f2e-84a3a7228234" "Are We Free to Break the Laws" %}}?" _Theoria_ 47, no. 3 (1981): 113–21.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Lewis, David. "[Are We Free to Break the Laws](http://dx.doi.org/10.1111/j.1755-
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Beebee, Helen. "[Local Miracle Compatibilism](http://dx.doi.org/10.1111/1468-0068.00438)." _Noûs_ 37, no. 2 (2003): 258–77.
+Beebee, Helen. "{{% resource_link "ce21c094-9cde-496d-9ed8-bc25efcd9710" "Local Miracle Compatibilism" %}}." _Noûs_ 37, no. 2 (2003): 258–77.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ Beebee, Helen. "[Local Miracle Compatibilism](http://dx.doi.org/10.1111/1468-006
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Davidson, Donald. ["Causal Relations." (PDF)](http://fitelson.org/woodward/davidson.pdf) _The Journal of Philosophy_ 64, no. 21 (1967): 691–703. (Sixty–Fourth Annual Meeting of the American Philosophical Association Eastern Division)
+Davidson, Donald. {{% resource_link "6d2ce58c-1003-4751-87ec-6544899977d3" "\"Causal Relations.\" (PDF)" %}} _The Journal of Philosophy_ 64, no. 21 (1967): 691–703. (Sixty–Fourth Annual Meeting of the American Philosophical Association Eastern Division)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +243,7 @@ Davidson, Donald. ["Causal Relations." (PDF)](http://fitelson.org/woodward/david
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. ["Causation." (PDF - 1.3MB)](https://www2.southeastern.edu/Academics/Faculty/jbell/lewis.pdf) _The Journal of Philosophy_ 70, no. 17 (1973): 556–67. (Seventieth Annual Meeting of the American Philosophical Association Eastern Division)
+Lewis, David. {{% resource_link "105cee42-6b66-49f5-b032-79ca2289e857" "\"Causation.\" (PDF - 1.3MB)" %}} _The Journal of Philosophy_ 70, no. 17 (1973): 556–67. (Seventieth Annual Meeting of the American Philosophical Association Eastern Division)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +252,7 @@ Lewis, David. ["Causation." (PDF - 1.3MB)](https://www2.southeastern.edu/Academi
 22
 {{< tdclose >}}
 {{< tdopen >}}
-McGrath, Sarah. "[Causation by Omission: A Dilemma](http://dx.doi.org/10.1007/s11098-004-5216-z)." _Philosophical Studies_ 123, no. 1–2 (2005): 125–48.
+McGrath, Sarah. "{{% resource_link "bfbe9e56-4c2c-4091-94b3-9d3c29cc27ba" "Causation by Omission: A Dilemma" %}}." _Philosophical Studies_ 123, no. 1–2 (2005): 125–48.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +276,7 @@ Hirsch, Eli. "Ontology and Alternative Languages." _Metametaphysics: New Essays 
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Bennett, Karen. "[Composition, Colocation, and Metaontology](http://philpapers.org/rec/BENCCA)." _Metametaphysics: New Essays on the Foundations of Ontology_, 2009.
+Bennett, Karen. "{{% resource_link "da2223f1-2a2c-402c-af83-b2c33a9b0ed7" "Composition, Colocation, and Metaontology" %}}." _Metametaphysics: New Essays on the Foundations of Ontology_, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +285,7 @@ Bennett, Karen. "[Composition, Colocation, and Metaontology](http://philpapers.o
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Schaffer, Jonathan. "[On What Grounds What](http://philpapers.org/rec/SCHOWG)." _Metametaphysics: New Essays on the Foundations of Ontology_ (2009): 347—83.
+Schaffer, Jonathan. "{{% resource_link "c74d5e6d-9d58-480a-9b55-0f5d3f3ac967" "On What Grounds What" %}}." _Metametaphysics: New Essays on the Foundations of Ontology_ (2009): 347—83.
 {{< tdclose >}}
 
 {{< trclose >}}
