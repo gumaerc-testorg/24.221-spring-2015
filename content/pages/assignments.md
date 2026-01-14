@@ -25,7 +25,7 @@ uid: 2763cded-5621-62ea-4393-2c4e2513818a
 
 {{% resource_link "e475e220-e4d0-0389-a806-136575e8bbbe" "Writing Philosophy Essays (PDF)" %}} - tips from Prof. Justin Khoo.
 
-{{% resource_link "d05a541f-45e2-444e-88a0-24c1310778cb" "Jim Pryor's Guide to Writing Philosophy Papers" %}} (including grading guidelines)
+[Jim Pryor's Guide to Writing Philosophy Papers](http://www.jimpryor.net/teaching/guidelines/writing.html) (including grading guidelines)
 
 [The Pink Guide to Taking Philosophy Classes (PDF)](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_read)
 
